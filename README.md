@@ -11,8 +11,9 @@ A simple chatbot that answers FAQs in Bengali using a pre-trained multilingual B
 2. Enter a query in Bengali (e.g., “পরিষেবাগুলি কী?”).
 3. Get the closest matching answer.
 
-Sample Input/ Output:-
+# Sample Input/ Output:-
 আপনার প্রশ্ন লিখুন: আপনার কোম্পানির পরিষেবাগুলি কী?
+
 উত্তর: আমরা ওয়েব ডেভেলপমেন্ট, এআই সমাধান এবং ডেটা বিশ্লেষণ প্রদান করি।
 
 # Author
